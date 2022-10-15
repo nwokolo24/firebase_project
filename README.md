@@ -5,7 +5,7 @@ This application was written using flutter framework and dart programing languag
 ### Cloud Database
 Cloud data storage is a convenient solution which removes the requirement for an individual or company to maintain their own database server. There are tools like Amazon DynamoDB, MongoDB and Google Firebase that provides database solution which you can access using APIs.
 
-This project was created with the aim of leaning basic CRUD operations using Google Firebase Realtime Database.
+This project was created with the aim of learning basic CRUD operations using Google Firebase Realtime Database.
 
 ### YouTube Video
 I have recorded a youtube video to demonstrate the basic functionalities of this project. Here is a [link](https://youtu.be/Ippx5MQXGTc) to watch the video.
