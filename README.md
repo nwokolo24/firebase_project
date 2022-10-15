@@ -1,16 +1,39 @@
-# lds_temples
+# Temple Schedules
 
-lds temples
+This application was written using flutter framework and dart programing language. Find out more about flutter and dart [here](https://firebase.google.com/docs/database/flutter/read-and-write)
 
-## Getting Started
+### Cloud Database
+Cloud data storage is a convenient solution which removes the requirement for an individual or company to maintain their own database server. There are tools like Amazon DynamoDB, MongoDB and Google Firebase that provides database solution which you can access using APIs.
 
-This project is a starting point for a Flutter application.
+This project was created with the aim of leaning basic CRUD operations using Google Firebase Realtime Database.
 
-A few resources to get you started if this is your first Flutter project:
+### YouTube Video
+I have recorded a youtube video to demonstrate the basic functionalities of this project. Here is a [link](https://youtu.be/Ippx5MQXGTc) to watch the video.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Tech Stack
+Here is a list of the IDE and technologies I used while working on this project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Android Studio
+- Flutter Development Framework
+- Dart programming language
+- Google Firebase Realtime Database
+
+### References and Credits
+
+- [CodingZest](https://codingzest.com/)
+- [The Net Ninja](https://www.youtube.com/watch?v=sfA3NWDBPZ4&list=PL3eDQApKkt-OAhR6cqE0kCBjG1mWXohBk&index=1)
+
+
+### Picture Time
+
+Home Screen
+![Home Screen](home_screen.png)
+
+Insert Data
+![Insert Data](insert.png)
+
+Fetch Data
+![Fetch Data](fetch_data.png)
+
+Update Data
+![Update Data](update_data.png)
